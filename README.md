@@ -27,6 +27,13 @@ Este repositório trata tá disponibilização da api pública do IntegraSUS sob
 -  comorbidadePuerperaSivep - Indicador de morbidade puerperal (parto precoce) - Categórico
 -  comorbidadeRenalSivep - Indicador de morbidade renal - Categórico
 -  comorbidadeSindromeDownSivep - indicador de síndrome de Down - Categórico
+-  comorbidadeHiv - indicador de HIV - Categórico
+-  comorbidadeNeoplasias - indicador de neoplasias - Categórico
+-  tipoTesteExame - Tipo de exame realizado (Teste rápido, RT PCR, ELISA, Quimioluminescência, Eletroquimioluminescência)
+-  racaCorPaciente - Raça/Cor do paciente
+-  dataNotificacaoObito - Data na qual o óbito foi notificado
+-  cnesNotificacaoEsus - Código do Cadastro Nacional de Estabelecimentos de Saúde no qual o caso foi notificado no sistema E-SUS
+-  municipioNotificacaoEsus - Município que notificou o caso no E-SUS
 -  dataEntradaUtisSvep - Data de entrada na UTI - Data
 -  dataEvolucaoCasoSivep - Data do diagnóstico de evolução - Data
 -  dataInicioSintomas - Data de início dos sintomas - Data

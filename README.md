@@ -66,7 +66,7 @@ data selecionada. Em seguida, agrupe por resultadoFinalExame. Caso o campo
 dataInicioSintomas esteja nulo, o campo dataColetaExame deve ser usado e caso a
 dataColetaExame seja nulo deverá ser considerado a dataResultadoExame.
 
-#### 1.1.3 ́Obitos
+#### 1.1.3 Óbitos
 Selecione como número de óbitos os pacientes com codPaciente distintos em que a coluna
 obitoConfirmado seja verdadeira.
 
